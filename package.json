@@ -1,6 +1,6 @@
 {
-  "name": "karma-slimerjs-launcher",
-  "version": "0.1.0",
+  "name": "karma-slimerjstmp-launcher",
+  "version": "0.0.2",
   "description": "A Karma plugin. Launcher for SlimerJS.",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfroidure/karma-slimerjs-launcher.git"
+    "url": "git://github.com/gskachkov/karma-slimerjs-launcher.git"
   },
   "keywords": [
     "karma-plugin",
     "karma-launcher",
     "slimerjs"
   ],
-  "author": "Nicolas Froidure <nfroidure@elitwork.com>",
+  "author": "Aleksandr Skachkov <gskachkov@gmail.com>",
   "dependencies": {
     "slimerjs": "^0.9"
   },
@@ -30,6 +30,7 @@
     "grunt-auto-release": "~0.0.2"
   },
   "contributors": [
+    "Nicolas Froidure <nfroidure@elitwork.com>",
     "Vojta Jina <vojta.jina@gmail.com>",
     "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
     "Žilvinas Urbonas <zilvinas.urbon@gmail.com>",
@@ -37,5 +38,9 @@
     "Jason Dobry <jason.dobry@gmail.com>",
     "Rob Barreca <rob.barreca@inmobi.com>",
     "nherzing <nherzing@gmail.com>"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/nfroidure/karma-slimerjs-launcher/issues"
+  },
+  "homepage": "https://github.com/gskachkov/karma-slimerjs-launcher"
 }
